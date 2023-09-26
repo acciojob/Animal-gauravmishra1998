@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+#animal-photos{
+	background-color:#444444;
+	display:grid;
+	gap:10px;
+	grid-template-columns:repeat(3,1fr);
+}
